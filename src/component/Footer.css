@@ -1,0 +1,11 @@
+.footer{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.text-muted{
+    text-decoration: none;
+    color: antiquewhite !important;
+    font-weight: 400;
+    
+}
